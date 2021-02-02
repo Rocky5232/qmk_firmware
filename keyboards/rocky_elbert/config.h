@@ -22,8 +22,8 @@
 #define VENDOR_ID       0x524F
 #define PRODUCT_ID      0x0001
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    %MANUFACTURER%
-#define PRODUCT         default
+#define MANUFACTURER    Rocky5232
+#define PRODUCT         Rocky Elbert
 
 /* key matrix size */
 #define MATRIX_ROWS 8
