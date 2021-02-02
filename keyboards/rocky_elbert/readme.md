@@ -1,11 +1,11 @@
-# rocky_elbert
+# Rocky Elbert
 
 ![rocky_elbert](imgur.com image replace me!)
 
-*A short description of the keyboard/project*
+An affordable 45% PCB that supports full mods and a split spacebar.
 
-* Keyboard Maintainer: [Rocky5232](https://github.com/yourusername)
-* Hardware Supported: *The PCBs, controllers supported*
+* Keyboard Maintainer: [Rocky5232](https://github.com/Rocky5232)
+* Hardware Supported: Rocky Elbert 45% PCB
 * Hardware Availability: *Links to where you can find this hardware*
 
 Make example for this keyboard (after setting up your build environment):

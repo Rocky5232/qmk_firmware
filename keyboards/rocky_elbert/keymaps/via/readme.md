@@ -1,1 +1,1 @@
-# The default keymap for rocky_elbert
+# Via compatible keymap for Rocky Elbert
