@@ -1,4 +1,4 @@
-# rocky_hagues
+# Rocky Hagues
 
 ![rocky_hagues](imgur.com image replace me!)
 

@@ -1,1 +1,1 @@
-# The default keymap for rocky_hagues
+# The default keymap for Rocky Hagues
