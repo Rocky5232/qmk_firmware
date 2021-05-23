@@ -20,7 +20,7 @@
 
 /* USB Device descriptor parameter */
 #define VENDOR_ID       0x524F
-#define PRODUCT_ID      0x0002
+#define PRODUCT_ID      0x0003
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    Rocky5232
 #define PRODUCT         Rocky Elbert
@@ -39,8 +39,8 @@
  *                  ROW2COL = ROW = Anode (+), COL = Cathode (-, marked on diode)
  *
  */
-#define MATRIX_ROW_PINS { F4, F7, B1, B2, B6, B3, F6, F5, B0 }
-#define MATRIX_COL_PINS { D1, D0, D4, C6, D7, B5, B4 }
+#define MATRIX_ROW_PINS { F4, F7, B1, B2, B6, B3, F6, F5 }
+#define MATRIX_COL_PINS { D1, D0, D4, D6, D7, B5, B4 }
 
 #define DIODE_DIRECTION COL2ROW
 
