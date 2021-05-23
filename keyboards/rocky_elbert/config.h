@@ -40,7 +40,7 @@
  *
  */
 #define MATRIX_ROW_PINS { F4, F7, B1, B2, B6, B3, F6, F5 }
-#define MATRIX_COL_PINS { D1, D0, D4, D6, D7, B5, B4 }
+#define MATRIX_COL_PINS { D1, D0, D4, C6, D7, B5, B4 }
 
 #define DIODE_DIRECTION COL2ROW
 
